@@ -1,2 +1,2 @@
 # Structured-Programming-Lab
-SE122
+SE122D
